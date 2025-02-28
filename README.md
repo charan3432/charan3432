@@ -1,10 +1,14 @@
 <h1 align="center">👋 Hey there! I'm Charan Mahendrakar</h1>
 <h3 align="center">🚀 Software Engineer | Java Developer | AI & Cloud Enthusiast | Performance Optimizer</h3>
 
-⚡ What Drives Me?
-🚀 Optimizing Performance – From microservices to load testing, I love making things faster and more efficient.
-🧠 AI Meets Backend – Exploring how Spring AI can revolutionize backend intelligence.
-🔗 Building with Purpose – Code isn't just syntax; it's about scalability, resilience, and impact.
+{
+  "⚡ What Drives Me?": {
+    "🚀 Optimizing Performance": "From microservices to load testing, I love making things faster and more efficient.",
+    "🧠 AI Meets Backend": "Exploring how Spring AI can revolutionize backend intelligence.",
+    "🔗 Building with Purpose": "Code isn't just syntax; it's about scalability, resilience, and impact."
+  }
+}
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan3432&label=Profile%20views&color=0e75b6&style=flat" alt="charan3432" /> </p>
 
