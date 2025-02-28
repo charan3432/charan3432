@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/charan3432/myrepo/13629.png" alt="Charan Mahendrakar" width="250"/>
+  <img src="https://raw.githubusercontent.com/charan3432/myrepo/main/13629.png" alt="Charan Mahendrakar" width="250"/>
 </p>
+
 
 
 <h1 align="center">👋 Hey there! I'm Charan Mahendrakar</h1>
