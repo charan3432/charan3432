@@ -1,13 +1,21 @@
 <h1 align="center">👋 Hey there! I'm Charan Mahendrakar</h1>
 <h3 align="center">🚀 Software Engineer | Java Developer | AI & Cloud Enthusiast | Performance Optimizer</h3>
 
-{
-  "⚡ What Drives Me?": {
-    "🚀 Optimizing Performance": "From microservices to load testing, I love making things faster and more efficient.",
-    "🧠 AI Meets Backend": "Exploring how Spring AI can revolutionize backend intelligence.",
-    "🔗 Building with Purpose": "Code isn't just syntax; it's about scalability, resilience, and impact."
-  }
+public class AboutMe {
+    public static String getWhatDrivesMe() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("⚡ What Drives Me?\n")
+          .append("🚀 Optimizing Performance - From microservices to load testing, I love making things faster and more efficient.\n")
+          .append("🧠 AI Meets Backend - Exploring how Spring AI can revolutionize backend intelligence.\n")
+          .append("🔗 Building with Purpose - Code isn't just syntax; it's about scalability, resilience, and impact.");
+        return sb.toString();
+    }
+
+    public static void main(String[] args) {
+        System.out.println(getWhatDrivesMe());
+    }
 }
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan3432&label=Profile%20views&color=0e75b6&style=flat" alt="charan3432" /> </p>
