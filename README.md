@@ -44,11 +44,4 @@
 
 ---
 
-### 🏆 Achievements
-- 🏅 **Performance Optimization**: Improved microservices performance by **30%** using **Spring Boot & JMeter**.
-- 🚀 **AI Integration**: Exploring **Spring AI** to bring intelligence to backend systems.
-- 🌍 **Cloud Deployment**: Successfully deployed **microservices on AWS** using **Terraform**.
-
----
-
 💬 **Let's build something amazing together!** Reach me at **charanmahendrakar9@gmail.com** 📩
